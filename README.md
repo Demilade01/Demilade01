@@ -19,8 +19,8 @@ As a passionate and dedicated Frontend developer, I have cultivated extensive ex
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
 </a>
 <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" />
-</a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="36" height="36" alt="Solidity" />
+  </a>
 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
