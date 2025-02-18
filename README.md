@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Demilade Akinyemi
 ========================================================================================================================================
 
-Frontend Developer
+Frontend Develope
 -------------------
 
 As a passionate and dedicated Frontend developer, I have cultivated extensive experience by working on a diverse range of frontend, backend, and fullstack web applications. My journey in the tech industry has equipped me with a robust skill set and a deep understanding of the entire web development lifecycle.
