@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==========================================================================================================================================
 
 Frontend Developer
---------------------
+---------------------
 
 As a passionate and dedicated Frontend developer, I have cultivated extensive experience by working on a diverse range of frontend, backend, and fullstack web applications. My journey in the tech industry has equipped me with a robust skill set and a deep understanding of the entire web development lifecycle.
 
