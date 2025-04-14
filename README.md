@@ -1,9 +1,9 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to DevByte's Profile
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Let's build something clean
 ==========================================================================================================================
 Frontend Developer
 ---------------------
 
-As a passionate and dedicated Frontend developer, I have cultivated extensive experience by working on a diverse range of frontend, backend, and fullstack web applications. My journey in the tech industry has equipped me with a robust skill set and a deep understanding of the entire web development lifecycle.
+I build interfaces that don’t just work—they vibe. As a frontend dev with backend chops, I’ve shipped fullstack apps, debugged weird bugs at 2AM, and still care deeply about button hover states. Code, design, repeat.
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [deelad25@gmail.com](mailto:deelad25@gmail.com)
