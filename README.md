@@ -5,10 +5,6 @@ Frontend Developer
 
 I build interfaces that don’t just work—they vibe. As a frontend dev with backend chops, I’ve shipped fullstack apps, debugged weird bugs at 2AM, and still care deeply about button hover states. Code, design, repeat.
 
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [devbyte.dev@gmail.com](mailto:devbyte.dev@gmail.com
-  )
-
 ### Skills
 
 <p align="left">
