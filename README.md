@@ -3,7 +3,7 @@
 Fullstack Developer
 -------------------
 
-I build interfaces that don’t just work—they vibe. As a frontend dev with backend chops, I’ve shipped fullstack apps, debugged weird bugs at 2AM, and still care deeply about button hover states. Code, design, repeat.
+I build interfaces that don’t just work—they vibe. As a fullstack dev with backend chops, I’ve shipped fullstack apps, debugged weird bugs at 2AM, and still care deeply about button hover states. Code, design, repeat.
 
 ### Skills
 
