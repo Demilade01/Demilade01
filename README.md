@@ -64,13 +64,13 @@ with a live Spotify "now playing" widget served by Vercel serverless functions.
      It shows as a broken image until that Action has run once (Actions tab -> Snake -> Run workflow). -->
 <p align="center"><img src="https://raw.githubusercontent.com/Demilade01/Demilade01/output/snake.svg" alt="Contribution snake" width="100%" /></p>
 
-<!-- The stats + top-langs cards use the PUBLIC github-readme-stats instance, which can rate-limit (HTTP 503).
-     For 100% uptime, self-host github-readme-stats and swap the host in both URLs (see the setup notes). -->
+<!-- Stats + top-langs are served from a self-hosted github-readme-stats instance (own Vercel + PAT_1),
+     so it never hits shared rate-limits and can count private contributions. -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Demilade01&show_icons=true&count_private=true&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true" alt="GitHub stats" width="49%" />
+<img src="https://github-readme-stats-beta-five-44.vercel.app/api?username=Demilade01&show_icons=true&count_private=true&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true" alt="GitHub stats" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=Demilade01&background=101418&stroke=26303a&ring=d99a57&fire=d99a57&currStreakNum=f7efe3&sideNums=f7efe3&currStreakLabel=d99a57&sideLabels=aeb8b1&dates=aeb8b1&hide_border=true" alt="Streak" width="49%" />
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demilade01&layout=compact&langs_count=8&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true&custom_title=Most%20Used%20Languages" alt="Top languages" width="49%" /></p>
+<p align="center"><img src="https://github-readme-stats-beta-five-44.vercel.app/api/top-langs/?username=Demilade01&layout=compact&langs_count=8&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true&custom_title=Most%20Used%20Languages" alt="Top languages" width="49%" /></p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
