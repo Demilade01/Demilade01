@@ -70,7 +70,7 @@ with a live Spotify "now playing" widget served by Vercel serverless functions.
 <img src="https://github-readme-stats-beta-five-44.vercel.app/api?username=Demilade01&show_icons=true&count_private=true&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true" alt="GitHub stats" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=Demilade01&background=101418&stroke=26303a&ring=d99a57&fire=d99a57&currStreakNum=f7efe3&sideNums=f7efe3&currStreakLabel=d99a57&sideLabels=aeb8b1&dates=aeb8b1&hide_border=true" alt="Streak" width="49%" />
 </p>
-<p align="center"><img src="https://github-readme-stats-beta-five-44.vercel.app/api/top-langs/?username=Demilade01&layout=compact&langs_count=8&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true&custom_title=Most%20Used%20Languages" alt="Top languages" width="49%" /></p>
+<p align="center"><img src="https://github-readme-stats-beta-five-44.vercel.app/api/top-langs/?username=Demilade01&layout=compact&langs_count=8&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true&custom_title=Most%20Used%20Languages&hide=nunjucks,plpgsql,scss&size_weight=0.5&count_weight=0.5" alt="Top languages" width="49%" /></p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
