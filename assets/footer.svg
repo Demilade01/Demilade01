@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180" role="img" aria-label="Build. Ship. Repeat. — Demilade Akinyemi, dev-byte.dev">
+  <defs>
+    <linearGradient id="accent2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#56e0c2"/>
+      <stop offset="1" stop-color="#d99a57"/>
+    </linearGradient>
+    <radialGradient id="fglow" cx="50%" cy="0%" r="75%">
+      <stop offset="0" stop-color="#d99a57" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#d99a57" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .glow { animation: pulse 3s ease-in-out infinite; }
+      @keyframes pulse { 0%,100% { opacity:0.7; } 50% { opacity:1; } }
+      text { font-family: 'Segoe UI', system-ui, -apple-system, Roboto, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, Consolas, Menlo, monospace; }
+    </style>
+  </defs>
+  <rect width="1200" height="180" fill="#080a0e"/>
+  <rect width="1200" height="180" fill="url(#fglow)"/>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#accent2)"/>
+  <text class="glow" x="600" y="92" text-anchor="middle" font-size="46" font-weight="800" letter-spacing="4" fill="#f7efe3">BUILD<tspan fill="#d99a57">.</tspan> SHIP<tspan fill="#d99a57">.</tspan> REPEAT<tspan fill="#d99a57">.</tspan></text>
+  <text class="mono" x="600" y="130" text-anchor="middle" font-size="14" letter-spacing="6" fill="#aeb8b1">DEMILADE AKINYEMI · DEV-BYTE.DEV</text>
+</svg>

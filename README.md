@@ -1,97 +1,89 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d99a57,100:56e0c2&height=200&section=header&text=Demilade%20Akinyemi&fontSize=44&fontColor=080a0e&fontAlignY=36&desc=Founding-Style%20Full-Stack%20Engineer%20%7C%20AI-Native%20Product%20Builder&descAlignY=56&descSize=16" width="100%" alt="Demilade Akinyemi" />
-</div>
+<p align="center"><img src="assets/header.svg" alt="Demilade Akinyemi. Founding-style full-stack engineer, AI-native product builder." width="100%" /></p>
 
-<div align="center">
-  <a href="https://www.dev-byte.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D99A57&center=true&vCenter=true&width=650&lines=I+build+AI-native+products+from+idea+to+launch;MVPs+%C2%B7+Dashboards+%C2%B7+Realtime+%C2%B7+APIs;Interfaces+that+don%27t+just+work%E2%80%94they+vibe." alt="Typing SVG" />
-  </a>
-</div>
+<h3 align="center">THE BRIEF</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Demilade01&label=Profile+views&color=d99a57&style=flat" alt="views" />
-  <a href="https://www.dev-byte.dev"><img src="https://img.shields.io/badge/Portfolio-dev--byte.dev-d99a57?style=for-the-badge&logo=vercel&logoColor=080a0e" alt="portfolio" /></a>
-  <a href="https://github.com/Demilade01"><img src="https://img.shields.io/github/followers/Demilade01?label=Follow&style=for-the-badge&color=d99a57&logo=github" alt="follow" /></a>
-</div>
+<p align="center">
+I'm <b>Demilade Akinyemi</b> — a founding-style full-stack engineer who takes products from idea to launch.<br/>
+MVPs, dashboards, real-time systems, backend APIs, and interfaces that don't just work, they <i>vibe</i>.<br/>
+I care about clean architecture and button hover states in equal measure. Currently building <a href="https://www.dev-byte.dev">Devbyte</a>.
+</p>
 
----
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
-### 👋 About me
+<h3 align="center">THE STACK</h3>
 
-I'm **Demilade Akinyemi** — a founding-style full-stack engineer who takes products from idea to launch: MVPs, dashboards, real-time systems, backend APIs, and interfaces that don't just work, they *vibe*.
+<p align="center">
+<sub>LANGUAGES</sub><br/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-101418?style=flat-square&logo=javascript&logoColor=f7efe3&labelColor=101418" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-101418?style=flat-square&logo=typescript&logoColor=f7efe3&labelColor=101418" />
+<img alt="Python" src="https://img.shields.io/badge/Python-101418?style=flat-square&logo=python&logoColor=f7efe3&labelColor=101418" />
+<img alt="Solidity" src="https://img.shields.io/badge/Solidity-101418?style=flat-square&logo=solidity&logoColor=f7efe3&labelColor=101418" />
+<br/><br/>
+<sub>FRONTEND</sub><br/>
+<img alt="React" src="https://img.shields.io/badge/React-101418?style=flat-square&logo=react&logoColor=f7efe3&labelColor=101418" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-101418?style=flat-square&logo=nextdotjs&logoColor=f7efe3&labelColor=101418" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-101418?style=flat-square&logo=tailwindcss&logoColor=f7efe3&labelColor=101418" />
+<img alt="three.js" src="https://img.shields.io/badge/three.js-101418?style=flat-square&logo=threedotjs&logoColor=f7efe3&labelColor=101418" />
+<img alt="GSAP" src="https://img.shields.io/badge/GSAP-101418?style=flat-square&logo=greensock&logoColor=f7efe3&labelColor=101418" />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-101418?style=flat-square&logo=vite&logoColor=f7efe3&labelColor=101418" />
+<img alt="HTML5" src="https://img.shields.io/badge/HTML5-101418?style=flat-square&logo=html5&logoColor=f7efe3&labelColor=101418" />
+<img alt="CSS3" src="https://img.shields.io/badge/CSS3-101418?style=flat-square&logo=css3&logoColor=f7efe3&labelColor=101418" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-101418?style=flat-square&logo=bootstrap&logoColor=f7efe3&labelColor=101418" />
+<br/><br/>
+<sub>BACKEND AND DATA</sub><br/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-101418?style=flat-square&logo=nodedotjs&logoColor=f7efe3&labelColor=101418" />
+<img alt="Express" src="https://img.shields.io/badge/Express-101418?style=flat-square&logo=express&logoColor=f7efe3&labelColor=101418" />
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-101418?style=flat-square&logo=mongodb&logoColor=f7efe3&labelColor=101418" />
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-101418?style=flat-square&logo=mysql&logoColor=f7efe3&labelColor=101418" />
+<br/><br/>
+<sub>TOOLS AND CLOUD</sub><br/>
+<img alt="Git" src="https://img.shields.io/badge/Git-101418?style=flat-square&logo=git&logoColor=f7efe3&labelColor=101418" />
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-101418?style=flat-square&logo=githubactions&logoColor=f7efe3&labelColor=101418" />
+<img alt="Vercel" src="https://img.shields.io/badge/Vercel-101418?style=flat-square&logo=vercel&logoColor=f7efe3&labelColor=101418" />
+<img alt="Figma" src="https://img.shields.io/badge/Figma-101418?style=flat-square&logo=figma&logoColor=f7efe3&labelColor=101418" />
+<img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-101418?style=flat-square&logo=visualstudiocode&logoColor=f7efe3&labelColor=101418" />
+</p>
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
-- 🔭 Building **[Devbyte](https://www.dev-byte.dev)** — AI-native products & polished web apps
-- ⚙️ Full-stack with real backend chops: APIs, data, realtime, serverless
-- 🎨 I sweat the details — clean architecture *and* button hover states
-- 🐛 Most dangerous at 2AM, hunting down the weird bugs
-- 💬 Ask me about React, TypeScript, Node, and shipping fast without shipping junk
+<h3 align="center">SHIPPED</h3>
 
----
+<p align="center">
+<a href="https://www.dev-byte.dev"><b>dev-byte.dev</b></a> — my portfolio: React 19 · TypeScript · Tailwind v4 · GSAP · three.js,<br/>
+with a live Spotify "now playing" widget served by Vercel serverless functions.
+</p>
 
-### 🛠️ Tech Stack
+<p align="center">
+<a href="https://github.com/Demilade01/devbyte"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Demilade01&repo=devbyte&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true" alt="devbyte" /></a>
+</p>
 
-**Languages**
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,solidity&theme=dark" alt="languages" />
+<h3 align="center">THE NUMBERS</h3>
 
-**Frontend**
+<!-- snake.svg is generated by .github/workflows/snake.yml and served from the `output` branch.
+     It shows as a broken image until that Action has run once (Actions tab -> Snake -> Run workflow). -->
+<p align="center"><img src="https://raw.githubusercontent.com/Demilade01/Demilade01/output/snake.svg" alt="Contribution snake" width="100%" /></p>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css,bootstrap&theme=dark" alt="frontend" />
+<!-- The stats + top-langs cards use the PUBLIC github-readme-stats instance, which can rate-limit (HTTP 503).
+     For 100% uptime, self-host github-readme-stats and swap the host in both URLs (see the setup notes). -->
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Demilade01&show_icons=true&count_private=true&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true" alt="GitHub stats" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Demilade01&background=101418&stroke=26303a&ring=d99a57&fire=d99a57&currStreakNum=f7efe3&sideNums=f7efe3&currStreakLabel=d99a57&sideLabels=aeb8b1&dates=aeb8b1&hide_border=true" alt="Streak" width="49%" />
+</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demilade01&layout=compact&langs_count=8&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true&custom_title=Most%20Used%20Languages" alt="Top languages" width="49%" /></p>
 
-**Backend & Data**
+<p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="backend" />
+<h3 align="center">SIGNAL</h3>
 
-**Tools**
+<p align="center">
+<a href="https://www.dev-byte.dev"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-a86832?style=flat-square&logo=vercel&logoColor=f7efe3" /></a>
+<a href="https://www.linkedin.com/in/demilade-akinyemi-660a26267"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-a86832?style=flat-square&logo=linkedin&logoColor=f7efe3" /></a>
+<a href="https://www.x.com/web_deelad"><img alt="X" src="https://img.shields.io/badge/X-a86832?style=flat-square&logo=x&logoColor=f7efe3" /></a>
+<a href="https://www.dev.to/Demilade01"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-a86832?style=flat-square&logo=devdotto&logoColor=f7efe3" /></a>
+<a href="https://www.stackoverflow.com/users/22053697/deelad"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-a86832?style=flat-square&logo=stackoverflow&logoColor=f7efe3" /></a>
+<br/><br/>
+<img alt="Visitors" src="https://komarev.com/ghpvc/?username=Demilade01&color=a86832&style=flat-square&label=VISITORS" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=vite,git,figma,vscode&theme=dark" alt="tools" />
-
----
-
-### 🚀 Featured Work
-
-<a href="https://github.com/Demilade01/devbyte">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Demilade01&repo=devbyte&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true" alt="devbyte" />
-</a>
-
-> 🌐 **[dev-byte.dev](https://www.dev-byte.dev)** — my portfolio: React 19 · TypeScript · Tailwind v4 · GSAP · three.js, with a live Spotify "now playing" widget served by Vercel functions.
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Demilade01&show_icons=true&count_private=true&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true" alt="stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Demilade01&background=101418&stroke=aeb8b1&ring=d99a57&fire=d99a57&currStreakNum=f7efe3&currStreakLabel=d99a57&sideNums=f7efe3&sideLabels=aeb8b1&dates=aeb8b1&hide_border=true" alt="streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demilade01&layout=compact&langs_count=8&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true&custom_title=Most%20Used%20Languages" alt="top langs" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Demilade01&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Demilade01/Demilade01/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</div>
-
----
-
-### 🌐 Connect with me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/demilade-akinyemi-660a26267"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.x.com/web_deelad"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.dev.to/Demilade01"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-  <a href="https://www.stackoverflow.com/users/22053697/deelad"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="http://www.instagram.com/d.ee_la.d"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/@deelad25"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://www.codepen.io/Demilade01"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
-  <a href="https://www.dribbble.com/Demilade01"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56e0c2,100:d99a57&height=120&section=footer" width="100%" alt="footer" />
-</div>
+<p align="center"><img src="assets/footer.svg" alt="Build. Ship. Repeat." width="100%" /></p>

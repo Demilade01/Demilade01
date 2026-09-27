@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Demilade Akinyemi — Founding-style full-stack engineer, AI-native product builder">
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d99a57"/>
+      <stop offset="1" stop-color="#56e0c2"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="82%" cy="18%" r="55%">
+      <stop offset="0" stop-color="#d99a57" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#d99a57" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="16%" cy="92%" r="55%">
+      <stop offset="0" stop-color="#56e0c2" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#56e0c2" stop-opacity="0"/>
+    </radialGradient>
+    <style>
+      .cursor { animation: blink 1.1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0; } }
+      .bar { transform-origin: 600px 197px; animation: grow 2.2s cubic-bezier(.2,.8,.2,1) both; }
+      @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+      .name { animation: rise 0.9s ease-out both; }
+      @keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+      text { font-family: 'Segoe UI', system-ui, -apple-system, Roboto, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', ui-monospace, Consolas, Menlo, monospace; }
+    </style>
+  </defs>
+  <rect width="1200" height="300" fill="#080a0e"/>
+  <rect width="1200" height="300" fill="url(#glowA)"/>
+  <rect width="1200" height="300" fill="url(#glowB)"/>
+  <g opacity="0.06" stroke="#f7efe3">
+    <line x1="0" y1="60" x2="1200" y2="60"/>
+    <line x1="0" y1="240" x2="1200" y2="240"/>
+  </g>
+  <text class="mono" x="600" y="86" text-anchor="middle" font-size="15" letter-spacing="2" fill="#aeb8b1">~/devbyte $ whoami<tspan class="cursor" fill="#d99a57"> █</tspan></text>
+  <text class="name" x="600" y="168" text-anchor="middle" font-size="62" font-weight="800" letter-spacing="3" fill="#f7efe3">DEMILADE AKINYEMI</text>
+  <rect class="bar" x="360" y="196" width="480" height="3" rx="1.5" fill="url(#accent)"/>
+  <text class="mono" x="600" y="240" text-anchor="middle" font-size="18" letter-spacing="4" fill="#d99a57">FOUNDING-STYLE FULL-STACK ENGINEER</text>
+  <text class="mono" x="600" y="268" text-anchor="middle" font-size="14" letter-spacing="6" fill="#aeb8b1">AI-NATIVE PRODUCT BUILDER</text>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" height="24" role="img" aria-label="">
+  <defs>
+    <linearGradient id="d" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#d99a57" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#d99a57" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#56e0c2" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .sh { animation: slide 3.5s ease-in-out infinite; }
+      @keyframes slide { 0%,100% { transform: translateX(-140px); opacity:0; } 50% { transform: translateX(140px); opacity:1; } }
+    </style>
+  </defs>
+  <rect x="0" y="11" width="1200" height="2" fill="url(#d)"/>
+  <g transform="translate(600,12)">
+    <rect class="sh" x="-30" y="-1" width="60" height="2" fill="#f7efe3" opacity="0.5"/>
+    <rect x="-5" y="-5" width="10" height="10" transform="rotate(45)" fill="#080a0e" stroke="#d99a57" stroke-width="1.5"/>
+  </g>
+</svg>
