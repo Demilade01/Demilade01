@@ -48,12 +48,12 @@ I care about clean architecture and button hover states in equal measure. Curren
 <h3 align="center">SHIPPED</h3>
 
 <p align="center">
-<a href="https://www.dev-byte.dev"><b>dev-byte.dev</b></a> — my portfolio: React 19 · TypeScript · Tailwind v4 · GSAP · three.js,<br/>
-with a live Spotify "now playing" widget served by Vercel serverless functions.
+  <a href="https://www.dev-byte.dev"><img src="https://www.dev-byte.dev/screenshot.png" alt="Devbyte — dev-byte.dev portfolio" width="80%" /></a>
 </p>
 
 <p align="center">
-<a href="https://github.com/Demilade01/devbyte"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Demilade01&repo=devbyte&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true" alt="devbyte" /></a>
+<b><a href="https://www.dev-byte.dev">dev-byte.dev</a></b> — my portfolio. React 19 · TypeScript · Tailwind v4 · GSAP · three.js,<br/>
+with a live Spotify "now playing" widget served by Vercel serverless functions.
 </p>
 
 <p align="center"><img src="assets/divider.svg" alt="" width="100%" /></p>
