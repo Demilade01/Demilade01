@@ -1,17 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0e7490&height=200&section=header&text=Demilade%20Akinyemi&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Founding-Style%20Full-Stack%20Engineer%20%7C%20AI-Native%20Product%20Builder&descAlignY=56&descSize=16" width="100%" alt="Demilade Akinyemi" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d99a57,100:56e0c2&height=200&section=header&text=Demilade%20Akinyemi&fontSize=44&fontColor=080a0e&fontAlignY=36&desc=Founding-Style%20Full-Stack%20Engineer%20%7C%20AI-Native%20Product%20Builder&descAlignY=56&descSize=16" width="100%" alt="Demilade Akinyemi" />
 </div>
 
 <div align="center">
   <a href="https://www.dev-byte.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=I+build+AI-native+products+from+idea+to+launch;MVPs+%C2%B7+Dashboards+%C2%B7+Realtime+%C2%B7+APIs;Interfaces+that+don%27t+just+work%E2%80%94they+vibe." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=D99A57&center=true&vCenter=true&width=650&lines=I+build+AI-native+products+from+idea+to+launch;MVPs+%C2%B7+Dashboards+%C2%B7+Realtime+%C2%B7+APIs;Interfaces+that+don%27t+just+work%E2%80%94they+vibe." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Demilade01&label=Profile+views&color=0891b2&style=flat" alt="views" />
-  <a href="https://www.dev-byte.dev"><img src="https://img.shields.io/badge/Portfolio-dev--byte.dev-0891b2?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
-  <a href="https://github.com/Demilade01"><img src="https://img.shields.io/github/followers/Demilade01?label=Follow&style=for-the-badge&color=0891b2&logo=github" alt="follow" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Demilade01&label=Profile+views&color=d99a57&style=flat" alt="views" />
+  <a href="https://www.dev-byte.dev"><img src="https://img.shields.io/badge/Portfolio-dev--byte.dev-d99a57?style=for-the-badge&logo=vercel&logoColor=080a0e" alt="portfolio" /></a>
+  <a href="https://github.com/Demilade01"><img src="https://img.shields.io/github/followers/Demilade01?label=Follow&style=for-the-badge&color=d99a57&logo=github" alt="follow" /></a>
 </div>
 
 ---
@@ -51,7 +51,7 @@ I'm **Demilade Akinyemi** — a founding-style full-stack engineer who takes pro
 ### 🚀 Featured Work
 
 <a href="https://github.com/Demilade01/devbyte">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Demilade01&repo=devbyte&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="devbyte" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Demilade01&repo=devbyte&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true" alt="devbyte" />
 </a>
 
 > 🌐 **[dev-byte.dev](https://www.dev-byte.dev)** — my portfolio: React 19 · TypeScript · Tailwind v4 · GSAP · three.js, with a live Spotify "now playing" widget served by Vercel functions.
@@ -61,16 +61,16 @@ I'm **Demilade Akinyemi** — a founding-style full-stack engineer who takes pro
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Demilade01&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="stats" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=Demilade01&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="streak" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Demilade01&show_icons=true&count_private=true&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true" alt="stats" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=Demilade01&background=101418&stroke=aeb8b1&ring=d99a57&fire=d99a57&currStreakNum=f7efe3&currStreakLabel=d99a57&sideNums=f7efe3&sideLabels=aeb8b1&dates=aeb8b1&hide_border=true" alt="streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demilade01&layout=compact&langs_count=8&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&custom_title=Most%20Used%20Languages" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Demilade01&layout=compact&langs_count=8&title_color=d99a57&text_color=f7efe3&icon_color=56e0c2&bg_color=101418&hide_border=true&custom_title=Most%20Used%20Languages" alt="top langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Demilade01&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Demilade01&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
 </div>
 
 <div align="center">
@@ -93,5 +93,5 @@ I'm **Demilade Akinyemi** — a founding-style full-stack engineer who takes pro
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e7490,100:0891b2&height=120&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:56e0c2,100:d99a57&height=120&section=footer" width="100%" alt="footer" />
 </div>
